@@ -1,0 +1,14 @@
+C:\My_Azure_Dev\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.deps.json
+C:\My_Azure_Dev\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.runtimeconfig.json
+C:\My_Azure_Dev\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.runtimeconfig.dev.json
+C:\My_Azure_Dev\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.dll
+C:\My_Azure_Dev\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.pdb
+C:\My_Azure_Dev\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.csprojAssemblyReference.cache
+C:\My_Azure_Dev\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.csproj.CoreCompileInputs.cache
+C:\My_Azure_Dev\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.RazorAssemblyInfo.cache
+C:\My_Azure_Dev\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.RazorAssemblyInfo.cs
+C:\My_Azure_Dev\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.AssemblyInfoInputs.cache
+C:\My_Azure_Dev\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.AssemblyInfo.cs
+C:\My_Azure_Dev\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.RazorTargetAssemblyInfo.cache
+C:\My_Azure_Dev\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.dll
+C:\My_Azure_Dev\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.pdb
